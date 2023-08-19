@@ -8,7 +8,7 @@ const amqp = require('amqplib');
 
     // 声明队列。声明队列是幂等的，仅当队列尚不存在时才会创建它
     const queue = 'my_queue';
-    await channel.assertQueue(queue, {durable: false});
+    await channel.assertQueue(queue);
 
     // 发送消息
     const message = 'Hello, RabbitMQ!';
