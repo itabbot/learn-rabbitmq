@@ -4,4 +4,4 @@
 
 ![competing-consumers.png](./competing-consumers.png)
 
-竞争消费者其实就是在点对点模式的基础上，多启动一些消费者。详见 [点对点模式>>](../point-to-point)
+竞争消费者其实就是在点对点模式的基础上，多启动一些消费者。参见 [点对点模式>>](../point-to-point)
