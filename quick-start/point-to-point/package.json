@@ -1,0 +1,6 @@
+{
+  "name": "point-to-point",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
