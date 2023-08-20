@@ -1,0 +1,6 @@
+{
+  "name": "quick-start",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
