@@ -22,7 +22,7 @@ $ node ./producer.js
 
 2. 此时可以看到队列中积压了 20 条消息：
 
-<img alt="init.png" height="700" src="img/init.png"/>
+<img alt="init.png" width="700" src="img/init.png"/>
 
 3. 此时重启 RabbitMQ：
 
@@ -32,4 +32,4 @@ $ sudo docker restart rabbitmq
 
 4. 不持久化的队列和消息都消失了：
 
-<img alt="restart.png" height="700" src="img/restart.png"/>
+<img alt="restart.png" width="700" src="img/restart.png"/>
