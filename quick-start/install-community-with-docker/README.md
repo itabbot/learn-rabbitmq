@@ -25,6 +25,6 @@ Status: Downloaded newer image for rabbitmq:3.12-management
 0b8b89afe37dd02bb59b6a27760b3e66d446049c40626757b2fa55c4bc29932d
 ```
 
-2. 浏览器打开管理界面 `[http://127.0.0.1:15672](http://127.0.0.1:15672)`，账号密码默认都是 guest，如下图所示：
+2. 浏览器打开管理界面 [`http://127.0.0.1:15672`](http://127.0.0.1:15672)，账号密码默认都是 guest，如下图所示：
 
 <img alt="rabbitmq.png" src="rabbitmq.png" width="400"/>
