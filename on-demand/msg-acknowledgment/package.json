@@ -1,0 +1,6 @@
+{
+  "name": "msg-acknowledgment",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
